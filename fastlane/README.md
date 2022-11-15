@@ -31,6 +31,22 @@ Description of what the lane does
 
 Take screenshots
 
+### ios certificates
+
+```sh
+[bundle exec] fastlane ios certificates
+```
+
+Setup Apple Certificates
+
+### ios beta
+
+```sh
+[bundle exec] fastlane ios beta
+```
+
+
+
 ----
 
 This README.md is auto-generated and will be re-generated every time [_fastlane_](https://fastlane.tools) is run.
